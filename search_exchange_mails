@@ -1,0 +1,2 @@
+#Searching Message Tracking Logs by Recipient Email Address
+Get-MessageTrackingLog -Sender user@mail.com -Recipients *
