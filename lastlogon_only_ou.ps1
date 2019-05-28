@@ -1,0 +1,1 @@
+Get-Mailbox -OrganizationalUnit "contoso.local/HOSTED E-MAIL ACCOUNTS/CLIENT" | Get-MailboxStatistics | ft DisplayName,LastLogonTime
